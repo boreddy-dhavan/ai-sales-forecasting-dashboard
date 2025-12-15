@@ -1,6 +1,6 @@
 # AI-Powered Sales Forecasting Dashboard 📊
 
-## 📌 Overview
+##Overview
 This project predicts future retail sales using historical data and machine learning.
 
 #Features
@@ -27,3 +27,4 @@ Retail monthly sales data (2018–2023).
 bash
 pip install -r requirements.txt
 python sales_forecasting.py
+
